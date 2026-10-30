@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480">
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="380" y="52" text-anchor="middle" font-size="25" font-family="sans-serif">Wazuh rule 100100: Detection metrics</text>
+<line x1="85" y1="355" x2="705" y2="355" stroke="#333" stroke-width="2"/>
+<rect x="132" y="237.5" width="110" height="117.5" fill="#3274a1"/>
+<text x="187" y="224.5" text-anchor="middle" font-size="19" font-family="sans-serif">50.0%</text>
+<text x="187" y="391" text-anchor="middle" font-size="15" font-family="sans-serif">Precision</text>
+<rect x="335" y="120.0" width="110" height="235.0" fill="#3274a1"/>
+<text x="390" y="107.0" text-anchor="middle" font-size="19" font-family="sans-serif">100.0%</text>
+<text x="390" y="391" text-anchor="middle" font-size="15" font-family="sans-serif">Recall</text>
+<rect x="538" y="237.5" width="110" height="117.5" fill="#3274a1"/>
+<text x="593" y="224.5" text-anchor="middle" font-size="19" font-family="sans-serif">50.0%</text>
+<text x="593" y="391" text-anchor="middle" font-size="15" font-family="sans-serif">False-positive rate</text>
+<text x="380" y="442" text-anchor="middle" font-size="14" font-family="sans-serif">3 in-scope synthetic scenarios; not production performance</text>
+</svg>

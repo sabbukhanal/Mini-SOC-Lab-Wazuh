@@ -1,0 +1,5 @@
+test_id,scenario,malicious,rule_100100,in_scope
+T01,Repeated malicious invalid SSH usernames,1,1,1
+T02,Password guessing against existing username,1,0,0
+T03,Repeated benign username mistakes,0,1,1
+T04,Single benign username mistake,0,0,1

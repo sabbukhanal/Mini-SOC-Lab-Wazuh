@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables and private configuration
+.env
+.env.*
+
+# Local logs and raw telemetry
+*.log
+datasets/raw/
+
+# Temporary files
+*.tmp

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="470" viewBox="0 0 720 470">
+<rect width="720" height="470" fill="white"/>
+<text x="360" y="48" text-anchor="middle" font-size="25" font-family="sans-serif">Wazuh rule 100100: Confusion matrix</text>
+<text x="325" y="100" text-anchor="middle" font-size="16" font-family="sans-serif">No custom alert</text>
+<text x="535" y="100" text-anchor="middle" font-size="16" font-family="sans-serif">Custom alert</text>
+<text x="130" y="189" text-anchor="middle" font-size="17" font-family="sans-serif">Benign</text>
+<rect x="225" y="120" width="200" height="115" fill="#e0edf6" stroke="#64748b"/>
+<text x="325" y="171" text-anchor="middle" font-size="22" font-family="sans-serif">TN</text>
+<text x="325" y="204" text-anchor="middle" font-size="29" font-family="sans-serif">1</text>
+<rect x="435" y="120" width="200" height="115" fill="#e0edf6" stroke="#64748b"/>
+<text x="535" y="171" text-anchor="middle" font-size="22" font-family="sans-serif">FP</text>
+<text x="535" y="204" text-anchor="middle" font-size="29" font-family="sans-serif">1</text>
+<text x="130" y="314" text-anchor="middle" font-size="17" font-family="sans-serif">Malicious</text>
+<rect x="225" y="245" width="200" height="115" fill="#e0edf6" stroke="#64748b"/>
+<text x="325" y="296" text-anchor="middle" font-size="22" font-family="sans-serif">FN</text>
+<text x="325" y="329" text-anchor="middle" font-size="29" font-family="sans-serif">0</text>
+<rect x="435" y="245" width="200" height="115" fill="#e0edf6" stroke="#64748b"/>
+<text x="535" y="296" text-anchor="middle" font-size="22" font-family="sans-serif">TP</text>
+<text x="535" y="329" text-anchor="middle" font-size="29" font-family="sans-serif">1</text>
+<text x="360" y="426" text-anchor="middle" font-size="14" font-family="sans-serif">3 in-scope synthetic scenarios; not production performance</text>
+</svg>
